@@ -203,9 +203,6 @@ The project uses the following NuGet packages:
 
 **Author**: Noone
 
-- GunsLol: https://guns.lol/Noone.cs
-- Telegram: https://t.me/cslogs
-
 This project also uses https://github.com/PhillyStyle/chrome_v20_decryption_CSharp for browsers recovery.
 
 ## Disclaimer
@@ -213,4 +210,5 @@ This project also uses https://github.com/PhillyStyle/chrome_v20_decryption_CSha
 This software is provided for educational and security research purposes only. The use of this software to access systems or data without explicit authorization is illegal and may result in criminal prosecution. The authors and contributors are not responsible for any misuse of this code.
 
 Users are responsible for ensuring compliance with all applicable laws and regulations in their jurisdiction. This tool should only be used on systems you own or have explicit written permission to test.
+
 
